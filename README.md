@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-invite-friends](screens/invite-friends)
 - [screen-forgot-password](screens/forgot-password)
 - [screen-post-listing](screens/post-listing)
+- [react-native-splash](modules/splash)
 
 # Getting started: Frontend
 

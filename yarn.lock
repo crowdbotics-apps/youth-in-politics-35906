@@ -1001,6 +1001,9 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
+"@modules/splash@file:./modules/splash/":
+  version "1.0.0"
+
 "@react-native-community/cli-debugger-ui@^5.0.1":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-5.0.1.tgz#6b1f3367b8e5211e899983065ea2e72c1901d75f"
@@ -1229,7 +1232,7 @@
 "@screens/notifications-preference@file:./screens/notifications-preference":
   version "1.0.0"
 
-"@screens/post-listing@file:./screens/post-listing/":
+"@screens/post-listing@file:./screens/post-listing":
   version "1.0.0"
 
 "@screens/search-listing@file:./screens/search-listing":
