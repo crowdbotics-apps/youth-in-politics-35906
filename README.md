@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-maps](modules/maps)
 - [screen-invite-friends](screens/invite-friends)
 - [screen-forgot-password](screens/forgot-password)
+- [screen-post-listing](screens/post-listing)
 
 # Getting started: Frontend
 

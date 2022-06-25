@@ -22,6 +22,7 @@
     "@screens/menu": "file:./screens/menu/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
+    "@screens/post-listing": "file:./screens/post-listing/",
     "@screens/search-listing": "file:./screens/search-listing/",
     "@screens/settings": "file:./screens/settings/",
     "axios": "^0.21.1",

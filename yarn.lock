@@ -1214,7 +1214,7 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/forgot-password@file:./screens/forgot-password/":
+"@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
 "@screens/invite-friends@file:./screens/invite-friends":
@@ -1227,6 +1227,9 @@
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":
+  version "1.0.0"
+
+"@screens/post-listing@file:./screens/post-listing/":
   version "1.0.0"
 
 "@screens/search-listing@file:./screens/search-listing":
