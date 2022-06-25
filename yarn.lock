@@ -1001,7 +1001,7 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1233,6 +1233,9 @@
   version "1.0.0"
 
 "@screens/post-listing@file:./screens/post-listing":
+  version "1.0.0"
+
+"@screens/profile@file:./screens/profile/":
   version "1.0.0"
 
 "@screens/search-listing@file:./screens/search-listing":
