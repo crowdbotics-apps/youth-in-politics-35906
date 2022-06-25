@@ -17,6 +17,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/menu": "file:./screens/menu/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",

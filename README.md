@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-notifications-preference](screens/notifications-preference)
 - [screen-menu](screens/menu)
 - [react-native-maps](modules/maps)
+- [screen-invite-friends](screens/invite-friends)
 
 # Getting started: Frontend
 
