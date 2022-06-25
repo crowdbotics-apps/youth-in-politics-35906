@@ -1214,7 +1214,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/invite-friends@file:./screens/invite-friends/":
+"@screens/forgot-password@file:./screens/forgot-password/":
+  version "1.0.0"
+
+"@screens/invite-friends@file:./screens/invite-friends":
   version "1.0.0"
 
 "@screens/menu@file:./screens/menu":
