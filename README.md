@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-post-listing](screens/post-listing)
 - [react-native-splash](modules/splash)
 - [screen-profile](screens/profile)
+- [screen-login](screens/login)
 
 # Getting started: Frontend
 

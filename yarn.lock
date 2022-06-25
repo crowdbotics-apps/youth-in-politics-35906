@@ -1223,6 +1223,9 @@
 "@screens/invite-friends@file:./screens/invite-friends":
   version "1.0.0"
 
+"@screens/login@file:./screens/login/":
+  version "1.0.0"
+
 "@screens/menu@file:./screens/menu":
   version "1.0.0"
 
@@ -1235,7 +1238,7 @@
 "@screens/post-listing@file:./screens/post-listing":
   version "1.0.0"
 
-"@screens/profile@file:./screens/profile/":
+"@screens/profile@file:./screens/profile":
   version "1.0.0"
 
 "@screens/search-listing@file:./screens/search-listing":
