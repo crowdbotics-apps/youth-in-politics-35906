@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-search-listing](screens/search-listing)
 - [screen-notifications-preference](screens/notifications-preference)
 - [screen-menu](screens/menu)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
