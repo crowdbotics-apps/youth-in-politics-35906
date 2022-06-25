@@ -1214,7 +1214,10 @@
 "@screens/messages-listing@file:./screens/messages-listing":
   version "1.0.0"
 
-"@screens/settings@file:./screens/settings/":
+"@screens/search-listing@file:./screens/search-listing/":
+  version "1.0.0"
+
+"@screens/settings@file:./screens/settings":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
